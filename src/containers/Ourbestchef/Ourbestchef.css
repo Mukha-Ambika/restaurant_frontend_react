@@ -1,0 +1,75 @@
+#Our_best_chef{
+    margin-top: 20vh;
+    display: flex;
+    flex-direction: row;
+}
+
+#Our_best_chef_img_section
+{
+    min-width: 50vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Our_best_chef_img{
+    width: 25vw;
+    height: 70vh;
+}
+
+#Our_best_chef_content{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+#Our_best_chef_content_heading{
+    color: var(--secondary-color);
+    font-size: 2em;
+}
+
+#Our_best_chef_content_heading_major{
+    font-size: var(--primary-fontsize);
+    margin: 0px;
+}
+
+#review_section{
+    display: flex;
+    flex-direction: row;
+}
+
+#review_customers_profile{
+    height: 50%;
+}
+
+#Our_best_chef_feedback_content {
+    margin-left: 1vw;
+}
+
+#Our_best_chef_feedback_content p:first-child{
+    margin: 0px;
+    font-weight: bold;
+}
+
+#Customer_Feedback_review{
+    display: flex;
+    flex-direction: row;
+    padding-top: 1vh;
+    justify-content: space-between;
+}
+
+#Customer_Feedback_review div{
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Customer_Feedback_review img{
+    height: 1vw;
+    margin-right: 0.5vw;
+}
+
+#Customer_Feedback_review p{
+    margin: 0vw 0.5vw 0vw 0vw;
+}

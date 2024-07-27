@@ -1,0 +1,9 @@
+#button_style{
+ background-color: var(--primary-color);
+ color: #FFF;
+ border-radius: 25px;
+ padding: 10px;
+ border: none;
+ width: 150px;
+height: 50px;
+}

@@ -1,0 +1,80 @@
+#home_page{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+#home_page_content{
+} 
+
+#tag_line{
+ font-size: var(--primary-fontsize);
+}
+
+#tag_line span{
+    color: var(--primary-color);
+}
+
+#secondary_text{
+    font-size: 25px;
+}
+
+#order_vedio{
+    display: flex;
+    flex-direction: row;
+    margin-top: 35px;
+}
+
+#order_vedio p{
+    font-size: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+#play_button{
+    border-radius: 100%;
+    padding: 16px 17px;
+    box-shadow: 5px 6px 3px 2px rgb(231, 231, 231);
+}
+
+#images_part{
+ position: relative;
+ margin-left: 3vw;
+ height: 100%;
+}
+
+#cirlce_behind_girl{
+    position: relative;
+    height: 483px;
+    margin-left: 40px;
+    top: 110px;
+}
+
+#girl_image{
+    position: absolute;
+    width:500px;
+    height: 600px;
+    top: 0px;
+    left: 12px;
+}
+
+#food_tag{
+    position: absolute;
+    top: 140px;
+    left: -10px;
+    width: 200px;
+    height: 100px;
+}
+
+.rating_food_1{
+    position: absolute;
+    bottom: -150px;
+    left: 50px;
+}
+
+.rating_food_2{
+    position: absolute;
+    bottom: -150px;
+    right: 50px;
+}    

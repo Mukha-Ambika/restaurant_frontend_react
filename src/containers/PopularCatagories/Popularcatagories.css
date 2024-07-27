@@ -1,0 +1,14 @@
+#section_title{
+  display: flex;
+  justify-content: center;
+  font-size: var(--primary-fontsize);
+  margin-top: 25vh;
+}
+
+#Catagorycards{
+  display: flex;
+  flex-direction: row;
+  justify-content:space-evenly;
+  margin-left: 10px;
+  margin-right: 10px;
+}

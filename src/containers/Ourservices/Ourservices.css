@@ -1,0 +1,33 @@
+#ourservices{
+    margin: 3vw 0vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+}
+
+#ourservices_content{
+    width: 40vw;
+    padding: 3vw;
+}
+
+#ourservices p:first-child{
+    color: var(--secondary-color);
+    font-size: larger;
+    text-transform: uppercase;
+}
+
+#ourservices_heading{
+    font-size: var(--primary-fontsize);
+    margin: 0.5vw;
+}
+
+#ourservices_description{
+    margin: 2vw 0vw;
+}
+
+#ourservices_cards{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 3vw;
+}

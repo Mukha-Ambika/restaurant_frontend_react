@@ -1,0 +1,87 @@
+#footer{
+    margin-top: 5vw;
+}
+
+#footer_links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+#footer_logo_section{
+    padding-top: 3vh;
+}
+
+#footer_logo_section p{
+    margin: 2vw 0px;
+}
+
+#footer_usefull_links{
+    display: flex;
+    flex-direction: column;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    margin: 0.5vw 0px;
+}
+
+a:hover{
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+#footer_mainmenu{
+    display: flex;
+    flex-direction: column;
+}
+
+#footer_contactUs p{
+    margin: 1vw 0px;
+}
+
+#footer_socialmedia_copyright
+{
+ display: flex;
+ flex-direction: row;
+ width: 80%;
+ margin-top: 4vh;
+ justify-content: space-around;
+}
+
+#footer_socialmedia_copyright a
+{
+ background-color: #EDFFEF;
+ border-radius: 50%;
+ width: 2.5vw;
+ height: 2.5vw;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ margin: 0px 0.5vw;
+}
+
+#footer_socialmedia_copyright a:first-child{
+    background-color: var(--primary-color);
+}
+
+#footer_socialmedia_copyright a:hover{
+    background-color: var(--primary-color);
+}
+
+#footer_socialmedia_copyright a img{
+ width:1vw ;
+ height:1vw ;
+}
+
+
+#footer_socialmedia_copyright a:first-child img{
+    width:1vw ;
+    height:1.5vw ;
+   }
+
+#footer_socialmedia{
+    display: flex;
+    flex-direction: row;
+}

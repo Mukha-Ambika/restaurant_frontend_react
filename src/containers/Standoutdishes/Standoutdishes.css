@@ -1,0 +1,35 @@
+#special_dish_section{
+    padding-left: 5vw;
+    padding-top: 100px;
+}
+
+#special_dish{
+    color: var(--secondary-color);
+    font-size: larger;
+    padding: 10px;
+}
+
+#style_subheading_line{
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+#standout_dish_subtext{
+    font-size: var(--primary-fontsize);
+}
+
+#direction_button_allign{
+    margin-left: auto;
+    display: flex;
+    flex-direction: row;
+    width: 10vw;
+    justify-content: space-evenly;
+}
+
+#special_dishes_cards{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding-top: 10vh;
+}
