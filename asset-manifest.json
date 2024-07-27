@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.1f121bc2.css",
-    "main.js": "/static/js/main.cb2f02b6.js",
-    "static/media/home_page_girl.png": "/static/media/home_page_girl.b91f29a80eae3685b23d.png",
-    "static/media/our_best_chef.png": "/static/media/our_best_chef.3756a152e230264825b5.png",
-    "static/media/standout_dish_1.png": "/static/media/standout_dish_1.791a07470e4153f3e439.png",
-    "static/media/stand_dish_2.png": "/static/media/stand_dish_2.953d5f409bc5f975e007.png",
-    "static/media/stand_out_dish_3.png": "/static/media/stand_out_dish_3.953d5f409bc5f975e007.png",
-    "static/media/home_page_tag.png": "/static/media/home_page_tag.4d2d3366617444de8898.png",
-    "static/media/home_page_food2.png": "/static/media/home_page_food2.464f43631affd9b062e5.png",
-    "static/media/Our_best_chef_review_customers_img.png": "/static/media/Our_best_chef_review_customers_img.e35e7002f20f6858a98d.png",
-    "static/media/home_page_food1.png": "/static/media/home_page_food1.43b0c88f9c6f825015ab.png",
-    "static/media/popular_dish_1.png": "/static/media/popular_dish_1.df7ffd5580c52af5b75d.png",
-    "static/media/popular_dish_2.png": "/static/media/popular_dish_2.4e90207785149bbc637a.png",
-    "static/media/popular_dish_3.png": "/static/media/popular_dish_3.3bbd92b4afcfd8df085c.png",
-    "static/media/circle_behind_girl.png": "/static/media/circle_behind_girl.7bed4d22f49fa6fdf7c1.png",
-    "index.html": "/index.html",
-    "main.1f121bc2.css.map": "/static/css/main.1f121bc2.css.map",
-    "main.cb2f02b6.js.map": "/static/js/main.cb2f02b6.js.map"
+    "main.css": "/restaurant_frontend_react/static/css/main.1f121bc2.css",
+    "main.js": "/restaurant_frontend_react/static/js/main.fe435488.js",
+    "static/media/home_page_girl.png": "/restaurant_frontend_react/static/media/home_page_girl.b91f29a80eae3685b23d.png",
+    "static/media/our_best_chef.png": "/restaurant_frontend_react/static/media/our_best_chef.3756a152e230264825b5.png",
+    "static/media/standout_dish_1.png": "/restaurant_frontend_react/static/media/standout_dish_1.791a07470e4153f3e439.png",
+    "static/media/stand_dish_2.png": "/restaurant_frontend_react/static/media/stand_dish_2.953d5f409bc5f975e007.png",
+    "static/media/stand_out_dish_3.png": "/restaurant_frontend_react/static/media/stand_out_dish_3.953d5f409bc5f975e007.png",
+    "static/media/home_page_tag.png": "/restaurant_frontend_react/static/media/home_page_tag.4d2d3366617444de8898.png",
+    "static/media/home_page_food2.png": "/restaurant_frontend_react/static/media/home_page_food2.464f43631affd9b062e5.png",
+    "static/media/Our_best_chef_review_customers_img.png": "/restaurant_frontend_react/static/media/Our_best_chef_review_customers_img.e35e7002f20f6858a98d.png",
+    "static/media/home_page_food1.png": "/restaurant_frontend_react/static/media/home_page_food1.43b0c88f9c6f825015ab.png",
+    "static/media/popular_dish_1.png": "/restaurant_frontend_react/static/media/popular_dish_1.df7ffd5580c52af5b75d.png",
+    "static/media/popular_dish_2.png": "/restaurant_frontend_react/static/media/popular_dish_2.4e90207785149bbc637a.png",
+    "static/media/popular_dish_3.png": "/restaurant_frontend_react/static/media/popular_dish_3.3bbd92b4afcfd8df085c.png",
+    "static/media/circle_behind_girl.png": "/restaurant_frontend_react/static/media/circle_behind_girl.7bed4d22f49fa6fdf7c1.png",
+    "index.html": "/restaurant_frontend_react/index.html",
+    "main.1f121bc2.css.map": "/restaurant_frontend_react/static/css/main.1f121bc2.css.map",
+    "main.fe435488.js.map": "/restaurant_frontend_react/static/js/main.fe435488.js.map"
   },
   "entrypoints": [
     "static/css/main.1f121bc2.css",
-    "static/js/main.cb2f02b6.js"
+    "static/js/main.fe435488.js"
   ]
 }
